@@ -7,7 +7,7 @@
 
 ---
 
-## Descripción general
+## Descripción general!!
 
 La guarida principal de la Legión del Mal. Lex Luthor la construyó dentro de un volcán activo usando tecnología de LexCorp y recursos de Magneto (quien moldeó toda la estructura metálica). El calor geotérmico alimenta los sistemas de energía. Desde el exterior, una isla volcánica deshabitada. Por dentro, un complejo de 5 niveles con capacidad para 50 personas.
 
