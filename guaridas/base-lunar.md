@@ -7,7 +7,7 @@
 
 ---
 
-## Descripción general
+## Descripción general!!
 
 Base secundaria de la Legión. Construida por Brainiac usando nanotecnología y ampliada por Magneto con metales extraídos del suelo lunar. Originalmente un laboratorio de investigación, ahora es la instalación de desarrollo del Proyecto Satélite Congelador y respaldo si la Fortaleza Prohibida cae.
 
