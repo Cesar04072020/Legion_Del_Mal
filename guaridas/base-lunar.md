@@ -11,6 +11,10 @@
 
 Base secundaria de la Legión. Construida por Brainiac usando nanotecnología y ampliada por Magneto con metales extraídos del suelo lunar. Originalmente un laboratorio de investigación, ahora es la instalación de desarrollo del Proyecto Satélite Congelador y respaldo si la Fortaleza Prohibida cae.
 
+La Base Lunar está equipada con un escudo de invisibilidad que la hace indetectable para satélites y telescopios. La entrada principal es un túnel de 200 m que se abre en el cráter Obscura, protegido por un campo de fuerza. La base tiene capacidad para 12 personas y puede operar de forma autónoma durante 3 meses.
+
+si podemos agregar que la base tiene un sistema de defensa automatizado que incluye torretas láser y drones de vigilancia. Además, cuenta con un laboratorio de clonación avanzado y un taller de ensamblaje satelital para el desarrollo del Glaciar-1.
+
 Invisible desde la Tierra (cara oculta). Green Lantern podría detectarla si patrullara esta zona, pero según Mystique, su ruta habitual pasa a 200,000 km de distancia.
 
 ## Instalaciones
